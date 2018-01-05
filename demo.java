@@ -1,8 +1,7 @@
-void {
-  ()
+void
+ {
+  (I love my india)
 }
-
-
 
 /* HelloWorld.java
  */
